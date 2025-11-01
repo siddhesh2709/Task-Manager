@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-r from-indigo-400 to-pink-300 text-gray-900 font-poppins min-h-screen;
+}
